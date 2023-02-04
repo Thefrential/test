@@ -1,0 +1,192 @@
+
+h2 {
+  position: relative;
+  font-size: 1.1em;
+  margin: 2.2rem 0 2.2rem 0;
+  font-weight:bold;
+  text-transform:uppercase;
+}
+
+h2 span {
+  background-color: #fff;
+  padding-right:0.65rem;
+}
+
+h2::before{
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  border-top: solid 0.5px #000;
+  z-index: -1;
+}
+
+h3 {
+  font-size:1.75em;
+  margin: 0.75rem 0 0.75rem 0;
+  text-transform: capitalize;
+}
+
+h4 {
+  font-size: 0.88em;
+  font-weight:bolder;
+  text-transform:uppercase;
+}
+
+h4 a:first-child {
+  border-right: solid 0.5px #979797;
+  padding-right: 10px;
+  margin-right: 10px;
+}
+
+section {
+  margin:3em auto 3em auto;
+}
+
+article{
+min-width:300px;
+max-width:100%;
+margin-bottom: 1.875em;
+}
+
+article>a {
+  min-width:250px;
+  display: block;
+  height: 300px;
+  margin-bottom: 1.875em;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+time{
+font-weight: lighter;
+}
+
+aside > div {
+  top:3.5rem;
+  padding: 5rem 1.875rem 0 0;
+}
+
+#hero{
+ margin-bottom:6rem;
+ position:relative;
+}
+#hero > div{
+  height:35em;
+  background:url('/images/a-team-of-digital-marketers.jpg') no-repeat center;
+  background-size:cover;
+}
+
+#hero h3 {
+  font-size:2.65em;
+  margin:0.9rem 0 0.9rem 0;
+}
+
+#hero article {
+  position:absolute;
+  top:70%;
+  width: 100%;
+}
+
+#hero article > div{
+  background-color: #fff;
+  width: 850px;
+  max-width:100%;
+  padding: 1.88em 2.5em;
+  margin: auto;
+}
+
+.sr-only{
+  position: absolute;
+  height: 1px;
+  top: auto;
+  width: 1px;
+  left: -2000px;
+  overflow:hidden;
+  margin:0;
+}
+
+.color-one{
+  background-color: #f6f6f8;
+}
+
+.connect > div{
+ padding: 3.125em 10% 3.125em 10%;
+}
+
+.color-two{
+  background-color: #e5edf0;
+}
+
+.fa-17 {
+  font-size: 1.7em;
+}
+
+.container-fluid {
+  padding: 0 5% 0 5%;
+}
+
+.container{
+ padding:0;
+}
+
+.col-4, .col-6, .col-8{
+  flex-grow: 1;
+}
+
+.row .row{
+  margin-left:0;
+  margin-right:0;
+}
+
+@media(min-width:992px){
+.larger-article > a{
+ min-width:100%;
+}
+.h-600{
+  height:600px;
+}
+.smaller-grid article{
+ min-width:200px;
+}
+.smaller-grid article>a {
+ height:240px;
+}
+.smaller-grid h3 {
+  font-size:1.5em;
+}
+.smaller-grid p {
+  font-size:0.9em;
+}
+}
+
+@media(max-width:991px){
+main{
+  overflow-x:hidden;
+}
+.larger-article, .smaller-grid article{
+ min-width:100%;
+}
+}
+@media(max-width:767px){
+#hero article {
+  position:static;
+}
+#hero{
+ margin-bottom:-1em;
+}
+#hero > div{
+  height:20em;
+}
+}
+@media(max-width:322px){
+  article{
+  min-width:170px;
+}
+article>a {
+min-width:170px;
+}
+}

@@ -1,0 +1,36 @@
+module.exports = (function(){
+    return {
+    "post-one": {
+      title: "How to Become a Nerd in Engineering",
+      postTitle:"<h1>How to Become a Nerd in Engineering</h1>",
+      featureImg:"<figure style='text-align:center;'><image src = '/images/feature.jpg' style='width:80%; max-width:100%'></figure>",
+      excerpt:  "<h3>Engineering is on of the dreams of most students but only a few know the tricks to be successful in the field</h3>",
+      pubdate: "<h4>3-11-22</h4>",
+      author:"<h4>charles igboanugo</h4>",
+      content: "<p>5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.</p>",
+      share:""
+    },
+    "post-two": {
+      title: "learn who we are learn",
+      postTitle:"<h1>The Best way to learn digital marketing in 2021</h1>",
+      featureImg:"<figure style='text-align:center;'><image src = '/images/feature.jpg' style='width:80%; max-width:100%'></figure>",
+      excerpt:  "<h3>Engineering is on of the dreams of most students but only a few know the tricks to be successful in the field</h3>",
+      pubdate: "<h4>3-11-22</h4>",
+      author:"<h4>charles igboanugo</h4>",
+      content: "<p>5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.5, Oluwasegun Yinka Close,Unique Estate, Baruwa, Ipaja, Lagos StateI am a result-oriented individual with strong interpersonal skill.</p>",
+      share:""
+    },
+    "post-three": {
+      title: "lets meet",
+      content: "<h1> Contact Us</h1> <p></p>"
+    },
+    "post-four": {
+      title: "our education centre",
+      content: "<h1> Our Blog </h1> <p></p>"
+    },
+    "post-five": {
+      title: "our education centre",
+      content: "<h1> Our Blog </h1> <p></p>"
+    }
+  }
+})()

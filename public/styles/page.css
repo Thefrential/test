@@ -1,0 +1,59 @@
+body {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1rem;
+}
+
+h2,
+h3,
+h4 {
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+p {
+  font-size: 1em;
+  font-weight:400;
+}
+
+main{
+  margin-bottom:-1.875rem;
+}
+footer{
+  margin-bottom:2.5rem;
+}
+
+footer > span{
+  color:#00000077;
+  color:rgba(0, 0, 0, 0.55);
+}
+footer .nav-link{
+  color:#000000;
+  color:rgba(0, 0, 0, 1);
+}
+.navbar-brand{
+  width:25%;
+}
+@media(max-width:991px) {
+.navbar-brand{
+  width:30%;
+  }
+ body{
+    font-size: 0.94rem;
+  }
+}
+@media(max-width:767px) {
+.navbar-brand{
+  width:35%;
+  }
+body{
+  font-size: 0.88rem;
+}
+}
+@media(max-width:575px) {
+.navbar-brand{
+  width:40%;
+  }
+  body{
+     font-size: 0.78rem;
+   }
+}
